@@ -14,16 +14,17 @@ telemetry, and reproducible delivery.
 
 | System | Focus | Status |
 | --- | --- | --- |
-| [Cloud-Native AI Backend](https://github.com/Dev-ASingh/cloud-native-ai-backend) | Secure asynchronous backend foundations | Work in progress |
-| [Enterprise RAG Platform](https://github.com/Dev-ASingh/enterprise-rag-platform) | Governed retrieval and cited generation | Work in progress |
-| [Multi-Agent Research System](https://github.com/Dev-ASingh/multi-agent-research-system) | Evidence-grounded agent orchestration | Work in progress |
-| [Financial Intelligence Platform](https://github.com/Dev-ASingh/financial-intelligence-platform) | Explainable financial and risk analysis | Work in progress |
-| [Production AI Platform](https://github.com/Dev-ASingh/production-ai-platform) | Evaluation, delivery, and observability | Work in progress |
-| [Autonomous Financial Platform](https://github.com/Dev-ASingh/flagship-autonomous-financial-platform) | Governed capstone integration | Work in progress |
+| Cloud-Native AI Backend | Secure asynchronous backend foundations | Private workspace |
+| Enterprise RAG Platform | Governed retrieval and cited generation | Private workspace |
+| Multi-Agent Research System | Evidence-grounded agent orchestration | Private workspace |
+| Financial Intelligence Platform | Explainable financial and risk analysis | Private workspace |
+| Production AI Platform | Evaluation, delivery, and observability | Private workspace |
+| Autonomous Financial Platform | Governed capstone integration | Private workspace |
 
-These repositories are private while their publication gates are being built.
-The public portfolio shows the direction without presenting unfinished systems
-as completed production work.
+These repositories are private workspaces while their publication gates are
+being built. They are intentionally not presented as public profile pins. The
+public portfolio shows the direction without presenting unfinished systems as
+completed production work.
 
 ## Domain foundation
 
@@ -36,4 +37,3 @@ as completed production work.
 
 - Portfolio: [aashishsingh.me](https://aashishsingh.me)
 - LinkedIn: [Ashish Singh](https://www.linkedin.com/in/ashish-singh-mba)
-
