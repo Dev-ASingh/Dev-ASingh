@@ -14,7 +14,7 @@ telemetry, and reproducible delivery.
 
 | System | Focus | Status |
 | --- | --- | --- |
-| Cloud-Native AI Backend | Secure asynchronous backend foundations | Private workspace |
+| Cloud-Native AI Backend | Secure asynchronous backend foundations | Public workspace |
 | Enterprise RAG Platform | Governed retrieval and cited generation | Private workspace |
 | Multi-Agent Research System | Evidence-grounded agent orchestration | Private workspace |
 | Financial Intelligence Platform | Explainable financial and risk analysis | Private workspace |
